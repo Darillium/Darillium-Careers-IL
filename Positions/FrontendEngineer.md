@@ -1,4 +1,4 @@
-![Darillium Logo](/Images/darillium-logo.png)
+<img src="/Images/darillium-logo.png" width=50 height=50>
 
 # Senior Software Engineer
 
