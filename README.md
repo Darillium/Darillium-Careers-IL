@@ -1,4 +1,4 @@
-![Darillium Logo|10x10,20%](/Images/darillium-logo.png)
+<img src="/Images/darillium-logo.png" width=50 height=50>
 # Darillium-Careers-IL
 
 ## About Us
