@@ -1,4 +1,4 @@
-![Darillium Logo](./Images/Darillium_gray blue.png)
+![Darillium Logo](./Images/darillium_gray.png)
 
 # Darillium-Careers-IL
 
