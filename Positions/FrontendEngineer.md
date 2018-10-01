@@ -1,4 +1,4 @@
-![Darillium Logo](../Images/darillium-logo.png)
+![Darillium Logo](../Images/darillium_gray.png)
 
 # Senior Software Engineer
 
