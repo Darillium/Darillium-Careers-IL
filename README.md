@@ -14,6 +14,7 @@ If you’re into working together with a top-notch team solving interesting tech
 #### Engineering
 * [Senior Software Engineer](/Positions/SeniorSoftwareEngineer.md)
 * [Frontend Engineer](/Positions/FrontendEngineer.md)
+* [DevOps Engineer](/Positions/DevOpsEngineer.md)
 
 ## Submit Application
 Send us an email with your CV or LinkedIn profile to <a href="mailto:shahaf@darillium.io">shahaf@darillium.io</a>
