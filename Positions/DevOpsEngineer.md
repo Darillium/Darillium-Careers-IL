@@ -6,7 +6,7 @@
 As a DevOps engineer in Darillium you will be in charge of designing and operating several cloud platforms.
 You will work closely with development teams who build the products and help them create and maintain a world-class platform.
 
-##Responsibilities
+## Responsibilities
 *	Design, implement and maintain build, test and deployment pipeline
 *	Solve technical problems in our systems and improve deployment, monitoring and maintenance
 *	Build tools to be used internally and increase other programmers performance
